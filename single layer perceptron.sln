@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "single layer perceptron", "single layer perceptron\single layer perceptron.csproj", "{6B9B0221-AD35-4FA1-A4C3-4ACB997F674C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "singlepercetronSetup", "singlepercetronSetup\singlepercetronSetup.vdproj", "{69A30519-66F0-42D6-99A1-67EA2EAF7ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9B0221-AD35-4FA1-A4C3-4ACB997F674C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9B0221-AD35-4FA1-A4C3-4ACB997F674C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9B0221-AD35-4FA1-A4C3-4ACB997F674C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9B0221-AD35-4FA1-A4C3-4ACB997F674C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A30519-66F0-42D6-99A1-67EA2EAF7ACE}.Debug|Any CPU.ActiveCfg = Debug
+		{69A30519-66F0-42D6-99A1-67EA2EAF7ACE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F1BC9D1-C2E4-481B-8727-F6501B025162}
+	EndGlobalSection
+EndGlobal

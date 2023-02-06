@@ -1,0 +1,34 @@
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.exe
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.deps.json
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.pdb
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single_layer_perceptron.Perceptron.resources
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\refint\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.pdb
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\[FINAL] LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\ref\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.exe
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.deps.json
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\bin\Debug\net6.0-windows\single layer perceptron.pdb
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single_layer_perceptron.Perceptron.resources
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\refint\single layer perceptron.dll
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.pdb
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\single layer perceptron.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\COLLEGE(II)\INTELLIGENT SYSTEMS\LAB 4\single layer perceptron\single layer perceptron\obj\Debug\net6.0-windows\ref\single layer perceptron.dll
